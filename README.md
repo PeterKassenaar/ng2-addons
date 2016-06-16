@@ -1,4 +1,4 @@
-# ng2 Add ons
+# Angular 2 add-ons
 
 A collective list of 3rd party add-ons for Angular 2-development (directives, components, filters, etc.)
 
