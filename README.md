@@ -23,3 +23,4 @@ A collective list of 3rd party add-ons for Angular 2-development (directives, co
 | Dragula | Drag and drop utility for Angular 2 | [Link](https://github.com/valor-software/ng2-dragula)|
 | Echoes YouTube Player | NG2-version of Echoes, a youtube player developed by Oren Farhi.| [Link](https://github.com/orizens/echoes-ng2)|
 | Ng2 Page Scroll | Animated "Scroll to element" functionality rewritten in a pure angular2 directive |[Link](https://github.com/Nolanus/ng2-page-scroll)|
+| ZingChart for Angular 2 | Interactive Angular 2 Charts with ZingChart | [Link](https://scotch.io/tutorials/interactive-angular-2-charts-with-zingchart)|
