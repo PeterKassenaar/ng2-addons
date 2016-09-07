@@ -16,6 +16,7 @@ A collective list of 3rd party add-ons for Angular 2-development (directives, co
 ### Utilities
 | Name | Description | Link |
 |---|---|---|
+| Angular 2 Calendar | An Angular 2 Calendar Component | [Link](https://mattlewis92.github.io/angular2-calendar/demo/)|
 | AngularFire 2| Realtime bindings and authentication for Angular 2 | [Link](https://angularfire2.com/api/)|
 | Angular2 Google Maps | Angular 2 components for Google Maps | [Link](https://angular-maps.com/)|
 | Angular2 Leaflet | A web mapping application starter based on Angular 2 and Leaflet | [Link](https://github.com/haoliangyu/angular2-leaflet-starter)|
