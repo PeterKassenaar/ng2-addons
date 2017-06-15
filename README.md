@@ -9,10 +9,10 @@ A collective list of 3rd party add-ons for Angular 2-development (directives, co
 ### Collections
 | Name | Description | Link |
 |---|---|---|
-| Angular 2 Bootstrap | Native Angular 2 directives for Bootstrap | [Link] (http://valor-software.com/ng2-bootstrap/#/)|
+| Angular 2 Bootstrap | Native Angular 2 directives for Bootstrap | [Link](http://valor-software.com/ng2-bootstrap/#/)|
 | Fuel UI | A collection of Angular 2 components, directives and pipes for Bootstrap 4 | [Link](http://fuelinteractive.github.io/fuel-ui/)|
 | Ng2-charts | Collection of Angular 2  directives for Chart.js | [Link](http://valor-software.com/ng2-charts/)|
-| Ng2-translate | An implementation of Angular Translate for Angular 2+ | [Link] (https://www.npmjs.com/package/ng2-translate)|
+| Ng2-translate | An implementation of Angular Translate for Angular 2+ | [Link](https://www.npmjs.com/package/ng2-translate)|
    
 ### Utilities
 | Name | Description | Link |
