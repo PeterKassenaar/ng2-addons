@@ -1,6 +1,6 @@
-# Angular 2 add-ons
+# Angular add-ons
 
-A collective list of 3rd party add-ons for Angular 2-development (directives, components, filters, etc.)
+A collective list of 3rd party add-ons for Angular development (directives, components, filters, etc.)
 
 > This list does *not* include libraries, components etc, already in development, or endorsed by team Angular itself, 
    such as Angular Material, Angular Mobile, Angular CLI, Ionic 2, Meteor 2, etc. It will list only 'real' third party solutions. 
@@ -27,3 +27,10 @@ A collective list of 3rd party add-ons for Angular 2-development (directives, co
 | Ng2 Page Scroll | Animated "Scroll to element" functionality rewritten in a pure angular2 directive |[Link](https://github.com/Nolanus/ng2-page-scroll)|
 | Videogular 2 | An HTML5 Video Player for Angular 2+ (article + directions) | [Link](https://www.toptal.com/angular-js/angular-video-player-videogular)|
 | ZingChart for Angular 2 | Interactive Angular 2 Charts with ZingChart | [Link](https://scotch.io/tutorials/interactive-angular-2-charts-with-zingchart)|
+
+### User Interface libraries
+| Name | Description | Link |
+|---|---|---|
+| Angular Material | Material Design components for Angular, by Team Angular | [Link](https://material.angular.io/)|
+| Clarity Design System | UX guidelines, HTML/CSS framework, and Angular components | [Link](https://vmware.github.io/clarity/)|
+| Prime NG | The most complete user interface suite for Angular | [Link](https://www.primefaces.org/primeng/#/)|
