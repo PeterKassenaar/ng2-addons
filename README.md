@@ -40,7 +40,8 @@ All add-ons are Angular 2+
 | Dragula | Drag and drop utility for Angular 2 | [Link](https://github.com/valor-software/ng2-dragula)|
 | Echoes YouTube Player | NG2-version of Echoes, a youtube player developed by Oren Farhi.| [Link](https://github.com/orizens/echoes-ng2)|
 | Ng2 Page Scroll | Animated "Scroll to element" functionality rewritten in a pure angular2 directive |[Link](https://github.com/Nolanus/ng2-page-scroll)|
+| Ng2 Meta | Dynamic meta tags and SEO in Angular2+ | [Link](https://github.com/vinaygopinath/ng2-meta)|
 | Videogular 2 | An HTML5 Video Player for Angular 2+ (article + directions) | [Link](https://www.toptal.com/angular-js/angular-video-player-videogular)|
 | ZingChart for Angular 2 | Interactive Angular 2 Charts with ZingChart | [Link](https://scotch.io/tutorials/interactive-angular-2-charts-with-zingchart)|
 
-More tools & ideas for this list? Mail me at info@kassenaar.com.
+More tools & ideas for this list? Mail me at info@kassenaar.com or send a pull request.
