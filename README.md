@@ -27,9 +27,11 @@ All add-ons are Angular 2+
 | Name | Description | Link |
 |---|---|---|
 | Angular Material | Material Design components for Angular, by Team Angular | [Link](https://material.angular.io/)|
+| Amexico Angular Components | Amexio Angular EXtensions v4.1 | [Link](https://amexio.org/api/v4.1/index.html#/getting-started)|
 | Clarity Design System | UX guidelines, HTML/CSS framework, and Angular components | [Link](https://vmware.github.io/clarity/)|
 | MD Bootstrap | Angular Bootstrap with Material Design | [Link](https://mdbootstrap.com/angular/)|
 | Prime NG | The most complete user interface suite for Angular | [Link](https://www.primefaces.org/primeng/#/)|
+
 
 ### Utilities
 | Name | Description | Link |
